@@ -28,4 +28,5 @@ This information will help us triage your report more quickly.
 
 ## Policy
 
-See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+See [GitHub's Safe Harbor Po[Ex-A-Existing-Class-Members-No-Shifts-and-Is-PAGA-Class-Member.pdf](https://github.com/github/.github/files/10408893/Ex-A-Existing-Class-Members-No-Shifts-and-Is-PAGA-Class-Member.pdf)
+licy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
